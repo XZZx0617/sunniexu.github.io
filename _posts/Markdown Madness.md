@@ -1,6 +1,8 @@
-# Markdown Madness
+---
+layout: post
 
-#### Author: Zoe Xu
+title: Markdown Madness
+---
 
 # Hello, everyone!
 
